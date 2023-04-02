@@ -22,4 +22,17 @@ https://dev.to/javinpaul/my-favorite-system-design-interview-questions-and-codin
 
 ### Title: Building Conscious Design Systems
 Description: This article discusses the concept of conscious design systems, which are design systems that are created with a focus on ethical and sustainable principles. The article explores the importance of conscious design systems, discussing how they can contribute to a more equitable and sustainable society. The article also provides practical advice and strategies for designers and organizations looking to build conscious design systems, including tips for conducting ethical audits and designing for accessibility and inclusivity.
+
 https://amyhupe.co.uk/articles/building-conscious-design-systems/
+
+
+### Title: System Design Primer
+Description: This GitHub repository provides a comprehensive guide to system design, covering a wide range of topics including scalability, availability, reliability, and performance optimization. The guide is aimed at software engineers and system designers, and includes real-world examples and case studies to illustrate key concepts. The repository also includes practice problems and solutions, making it a valuable resource for anyone looking to improve their system design skills.
+
+https://github.com/donnemartin/system-design-primer
+
+
+### Title: Awesome System Design
+Description: This GitHub repository is a curated list of resources for system design, including articles, tutorials, books, videos, and tools. The resources cover a wide range of topics, including database design, distributed systems, microservices, and cloud computing. The repository is maintained by the community and is constantly updated with new resources, making it a valuable source of information for software engineers and system designers.
+
+https://github.com/madd86/awesome-system-design
